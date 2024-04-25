@@ -1,6 +1,12 @@
 # szkolenie z gita
 
-## cos
+## instalacja
+
+Windows: <https://git-scm.com/download/win>
 
 
-### cos
+### Podstawowe polecenia
+### 'git init' git status git commit 
+#### testowe polecenie
+
+Help
