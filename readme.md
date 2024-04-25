@@ -10,3 +10,5 @@ Windows: <https://git-scm.com/download/win>
 #### testowe polecenie
 
 Help
+
+kolejna zmiana
