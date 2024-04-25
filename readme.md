@@ -25,5 +25,4 @@ Tutaj master
 To jest kolejna jakas zmiana
 
 1) zmiana1
-2) zmiana2
-3) zmiana3
+
