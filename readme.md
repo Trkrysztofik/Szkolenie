@@ -12,3 +12,6 @@ Windows: <https://git-scm.com/download/win>
 Help
 
 kolejna zmiana
+
+
+Tutaj master
