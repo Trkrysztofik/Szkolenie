@@ -14,4 +14,11 @@ Help
 kolejna zmiana
 
 
+
+
 Tutaj master
+
+
+
+##### To jest zmiana w innym branch
+
